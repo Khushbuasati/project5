@@ -24,7 +24,7 @@ export const colors: any = {
 
     // error
     error: '#f61a35',
-    errorLight: '#ffb44c',
+    errorLight: '#ffb44c', 
 
     // text
     textprimaryLight: '#919CAD',
